@@ -1,0 +1,80 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Poiret+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <title>James Gitari</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+
+<body>
+    <div class="row">
+        <div class="large-12 columns navigation">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+
+    <div class="row">
+        <div class="small-4  columns porti">
+           
+
+                <a href="http://breeze.bitballoon.com/" target="_blank"><img src="img/hotel.jpg"></a>
+           <span>A hotel resort website. Offers wedding facilities, allows making reservation etc</span>
+        </div>
+        <div class="small-4  columns porti">
+            
+                <a href="http://watotokumi.bitballoon.com/" target="_blank"><img src="img/children.jpg"></a>
+            <span>Watoto kumi website is a website for a Children's Home.</span>
+        </div>
+        <div class="small-4  columns porti">
+            
+                <a href="http://gitaden.bitballoon.com" target="_blank"><img src="img/health.jpg"></a>
+            <span>A health Center website that shows the facilites, services offered etc</span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="small-4  columns porti">
+           
+                <a href="http://http://pollyannacafe.bitballoon.com" target="_blank">
+                    <img src="img/cafe.jpg"></a>
+            <span>Pollyanna; A fast food cafe website, one page website.</span>
+
+        </div>
+        <div class="small-4  columns porti">
+            
+                <a href="http://design-x-agencies.bitballoon.com" target="_blank"><img src="img/designagency.jpg"></a>
+           <span>A design website; A design agency showcases their services and the portfolio</span>
+
+        </div>
+        <div class="small-4  columns porti">
+            
+                <a href="http://animalfarm.bitballoon.com" target="_blank"><img src="img/animalsfarm.jpg"></a>
+            <span>A Farmer's website;A buyer can buy animals on retail or wholesale</span>
+
+
+        </div>
+    </div>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
