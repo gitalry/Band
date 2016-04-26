@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategrey
+    background-color: darkslategrey;
 font-family: 'Poiret One', cursive;
    }
 
@@ -62,7 +62,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: gray;
 }
 
 li a {
@@ -77,5 +77,5 @@ li a {
 /* Change the link color to #111 (black) on hover */
 
 li a:hover {
-    background-color: black;
+    background-color:khaki;
 }
