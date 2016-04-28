@@ -83,4 +83,5 @@ li a:hover {
 .footer{
      background-color: gray;
 padding: 30px;
+    clear: both
 }
