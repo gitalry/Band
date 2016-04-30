@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #47484B;
 font-family: 'Montserrat', sans-serif;
     font-weight: 600;
    color: aliceblue;}
@@ -50,7 +50,16 @@ submit-button {
 .empty2 {
     height: 39%;
 }
-
+label{
+   color: aliceblue; 
+    
+}
+input{
+    {
+   color: aliceblue; 
+    
+}
+}
 span {
     color: aquamarine;
 }
