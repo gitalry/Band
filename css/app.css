@@ -31,7 +31,7 @@ porti{
     padding-top: 60px;
 }
 a {
-     color: aquamarine;
+     color:darkgoldenrod;
 font-family: 'Poiret One', cursive;
 }
 
@@ -44,11 +44,7 @@ submit-button {
     background-color: chartreuse;
     color: darkgreen;
 }
-.empty {
-    height: 50%;
-}
-.empty2 {
-    height: 39%;
+
 }
 label{
    color: aliceblue; 
@@ -56,7 +52,7 @@ label{
 }
 input{
     {
-   color: aliceblue; 
+   color: yellowgreen;
     
 }
 }
