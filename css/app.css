@@ -1,98 +1,84 @@
-body {
-    background-color: #47484B;
-font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-   color: aliceblue;}
-
-html {
-    font-family: 'Poiret One', cursive;
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #2A0C20;
+    color: azure;
+    background-image: url(../img/dark_embroidery.png)
 }
-.members img{
-    height: 290px;
-    width: 240px;
-
+.footer{
+    background-image: url(../img/dark_embroidery.png) ;
+    height: 110px;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    float: left;
-}
-
-p {
-
-    border-bottom-right-radius: 25px;
-    border-top-right-radius: 25px;
-}
-porti{
-    padding-top: 60px;
-}
-a {
-     color:darkgoldenrod;
-font-family: 'Poiret One', cursive;
-}
-
-.submit-button {
-    background-color: chartreuse;
-    color: darkgreen;
-}
-
-submit-button {
-    background-color: chartreuse;
-    color: darkgreen;
-}
-
-}
-label{
-   color: aliceblue; 
-    
-}
-input{
-    {
-   color: yellowgreen;
-    
-}
-}
-span {
-    color: aquamarine;
-}
-
-a {
-    display: block;
-    padding: 8px;
-    background-color: 333;
-     color: aquamarine;
-}
+.juu{
+    background-image: url(../img/dark_embroidery.png) ;
+    height: 110px:}
 
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: gray;
+
+    
+    background-color: #f1f1f1;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
 li a {
     display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
+    color: #000;
+    padding-top:  30px;
     text-decoration: none;
-      color: aquamarine;
 }
 
-
-/* Change the link color to #111 (black) on hover */
-
+/* Change the link color on hover */
 li a:hover {
-    background-color:khaki;
+    background-color: #555;
+    color: white;
 }
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/*from here down this code runs the text marque*/
+.example1 {
 
-.footer{
-     background-color: gray;
-padding: 30px;
-    clear: both
+ overflow: hidden;
+ position: relative;
+}
+.example1 h3 {
+ position: absolute;
+ width: 100%;
+
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);
+ transform:translateX(100%);
+ /* Apply animation to this element */
+ -moz-animation: example1 15s linear infinite;
+ -webkit-animation: example1 15s linear infinite;
+ animation: example1 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes example1 {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes example1 {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes example1 {
+ 0%   {
+ -moz-transform: translateX(100%); /* Firefox bug fix */
+ -webkit-transform: translateX(100%); /* Firefox bug fix */
+ transform: translateX(100%);
+ }
+ 100% {
+ -moz-transform: translateX(-100%); /* Firefox bug fix */
+ -webkit-transform: translateX(-100%); /* Firefox bug fix */
+ transform: translateX(-100%);
+ }
 }
