@@ -5,44 +5,56 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Poiret+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
-    <title>James Gitari</title>
+    <title>ROCKERS BAND</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="font-awesome.css">
+    <link rel="stylesheet" href="font-awesome.min.css">
+    
 </head>
 
 <body>
-    <div class="row">
-        <div class="large-12 columns navigation">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
+     <div class="row">
+        <div class="large-6 columns navigation">
+            <h3><span>About The Band</span></h3>
+            <br>
+
+            <p>The Rockers gained more traction in the underground scene, although shared similarities to other bands in the "riot grrrl" movement. Their debut full-length album "Spanking Machine" released in 1991 received critical acclaim on independent charts, although their hit single "Bruise Violet" on the follow up album is said to criticize Courtney Love</p>
+            <p><span>Amy Leez</span> is an American singer-songwriter, classically trained pianist and composer. She is the co-founder and lead vocalist of the rock band.
+                <br> <span>Monique Barine</span> (born June 30, 1984), well known professionally, is an American Rock singer, songwriter, actress, guitarist.
+                <br><span>Sue Ann</span> became a full-time member of Evanescence in June 2003, but had co-written two of their unreleased songs, "October" and "So Close," prior to that. She spent stints with local Little Rock punk bands such as The Visitors and Lucky Father Brown and is currently in the bands Two Spines and American Princes.<br>
+                <span>Lonique Tarine</span> (born June 30, 1990,  is an American Rock singer, songwriter, actress, bass-guitarist.</p>
         </div>
-    </div>
+        <div class="large-6 columns members">
+            <h3><span>Members Of The Band</span></h3>
+          <div class="row">
+                    <div class="small-6 columns">
+                     <img src="img/girl.jpg">
+                        <br>
+                        <img src="img/girl2.jpg" >
 
+                        </div>
+                    <div class="small-6 columns" >
 
+                        <img src="img/girl3.jpg">
 
-    <div class="row  empty2">
-    </div>
-    <div class="row">
-        <div class="small-4 large-centered columns">
-            <span><b><u>James Gitari.</u></b>
-                <br><br>A software engineer.
-                <br> <br>I do Python, HTML, CSS, and JavaScript.</b></span>
-                
-        
+                                 <img src="img/goth-girl.jpg">
+                   </div>
+
+            </div>
+    </div></div>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/vendor/what-input.js"></script>
+        <script src="js/vendor/foundation.js"></script>
+        <script src="js/app.js"></script>
+
+        <div class="row footer">
+            <i align="center">&copy; Build Tech</i>
         </div>
-
-        </div>
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
 </body>
 
 </html>
