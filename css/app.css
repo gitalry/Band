@@ -1,13 +1,35 @@
     /* body*/
     
     body {}
-
+    
     .active {
         background-image: url(../img/lightening.gif);
         background-color: coral;
     }
+    
+    .ss {
+        background-color: aliceblue;
+        /*        border: solid 2px black;*/
+    }
+    
+    .song {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    
+    p {
+        font-family: 'Poiret One', cursive;
+    }
+    
+    mp3 {
+        background-color: bisque;
+    }
+    
+    h {
+        font-family: 'Roboto Condensed', sans-serif;
+    }
     /*navbar tweaks*/
-
+    
     ul {
         list-style-type: none;
         margin: 2px;
@@ -15,15 +37,15 @@
         overflow: hidden;
         background-color: lightblue;
     }
-
+    
     .aboutpic {
         height: 600px;
     }
-
+    
     li {
         float: left;
     }
-
+    
     li a {
         display: block;
         color: black;
@@ -32,7 +54,7 @@
         text-decoration: none;
     }
     /* Change the link color to #111 (black) on hover */
-
+    
     li a:hover {
         background-color: #111;
     }
