@@ -6,11 +6,14 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+
     <title>ROCKERS BAND</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="css/font-awesome.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css"> </head>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+</head>
 
 <body>
     <div class="row expanded">
@@ -18,41 +21,52 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li style="float:right"><a href="reservation.html">RESERVATION</a></li>
+
                 <li style="float:right"><a href="media.html">MEDIA</a></li>
                 <li style="float:right"><a class="active" href="about.html">ABOUT US</a></li>
             </ul>
         </div>
     </div>
     <div class="row expanded">
-        <div class="small-12 large-12 large-centered columns">
+        <div class="medium-12 large-12 columns juu">
             <h3 align="center">Get to know about our band members</h3>
             <br>
             <p>The Rockers gained more traction in the underground scene, although shared similarities to other bands. Their debut full-length album "Spanking Machine" released in 1991 received critical acclaim on independent charts, although their hit single "Bruise Violet" on the follow up album is said to criticize Courtney Love</p>
         </div>
     </div>
     <div class="row expanded">
-        <div class="small-12 medium-6 large-6 columns "> <img src="img/selena.jpg"></div>
-        <div class="small-12 medium-6 large-6 columns"> <img src="img/goth-girl.jpg"> </div>
+        <div class="small-12 medium-6 large-6 columns ">
+            <img src="img/selena.jpg"></div>
+
+        <div class="small-12 medium-6 large-6 columns">
+            <img src="img/goth-girl.jpg">
+        </div>
     </div>
     <div class="row expanded">
-        <div class="small-12 large-12 large-centered columns">
-            <p>Lori Kim well known professionally, is an American Rock singer, songwriter, guitarist. </p>
-            <p>Amy Leez is an American singer-songwriter, classically trained pianist and composer. She is the co-founder and lead vocalist of the rock band. </p>
+        <div class="small-12 large-12 columns">
+            <p>Lori Kim well known professionally, is an American Rock singer, songwriter, guitarist.  </p> 
+<p>Amy Leez is an American singer-songwriter, classically trained pianist and composer.
+ She is the co-founder and lead vocalist of the rock band. </p>
             <p> Sue Ann is a singer and a songwriter.</p>
             <p> Maline Madso born June 30, 1990, is an American Rock singer, songwriter, actress, bass-guitarist.</p>
         </div>
     </div>
     <div class="row">
-        <div class="small-12 medium-6 large-6 columns"> <img src="img/girl3.jpg"></div>
-        <div class="small-12 medium-6 large-6 columns"> <img src="img/girl.jpg"></div>
+        <div class="small-12 medium-6 large-6 columns">
+            <img src="img/girl3.jpg"></div>
+        <div class="small-12 medium-6 large-6 columns">
+            <img src="img/girl.jpg"></div>
     </div>
+
+
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
-    <div class="row expanded">
-        <div class="medium-9 large-9 columns footer">
-            <hr> <i align="center">&copy; <a href="http://gitalry.github.io">James</a></i> </div>
+
+    <div class="medium-9 large-9 columns footer">
+        <hr>
+        <i align="center">&copy; <a href="http://gitalry.github.io">James</a></i>
     </div>
 </body>
 
